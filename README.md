@@ -2,7 +2,7 @@
 
 by Frank Chen
 
-This repository contains the implementation of a deep learning model for automatic road segmentation from high-resolution satellite images, based on an enhanced UNet architecture. The project was developed as a final assignment for a computer vision course.
+This repository contains the implementation of a deep learning model for automatic road segmentation from high-resolution satellite images, based on an enhanced UNet architecture. The project was developed as a final assignment for a AI for Urban Sustainability at UPenn.
 
 ## Overview
 
